@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2015\Projects\D2VS\D2VS\bin\Debug\D2VS.exe
+c:\users\dell\documents\visual studio 2015\Projects\D2VS\D2VS\bin\Debug\D2VS.pdb
+c:\users\dell\documents\visual studio 2015\Projects\D2VS\D2VS\obj\Debug\D2VS.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\D2VS\D2VS\obj\Debug\D2VS.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\D2VS\D2VS\obj\Debug\D2VS.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\D2VS\D2VS\obj\Debug\D2VS.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\D2VS\D2VS\obj\Debug\D2VS.exe
+c:\users\dell\documents\visual studio 2015\Projects\D2VS\D2VS\obj\Debug\D2VS.pdb
+c:\users\dell\documents\visual studio 2015\Projects\D2VS\D2VS\obj\Debug\D2VS.GateEditor.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\D2VS\D2VS\bin\Debug\ICSharpCode.SharpZipLib.dll
